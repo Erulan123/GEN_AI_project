@@ -8,8 +8,8 @@ Write an email or preferably have a meeting with Lydia or assistant to address t
 
 ---
 
-''' Feedback
-## Group 8
+
+## Feedback from teacher
 
 **Title:** Improvement of vocal to MIDI transcription models
 
@@ -20,7 +20,8 @@ Write an email or preferably have a meeting with Lydia or assistant to address t
 **Optimization & System:** conditioning, fine-tuning (on what?), constrained inference, quantization. Additional inputs: tempo & timed captions
 
 **Feedback:** Please refrain from directly sharing your chatbot's output. It's not clear from your presentation why existing baseline fail on this task and how your method is going to alleviate that. Make sure you understand well the project you propose, as it covers technique that weren't covered in the course.
-'''
+
+---
 
 ## Grading Rubrics
 

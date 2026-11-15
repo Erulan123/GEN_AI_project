@@ -33,8 +33,8 @@ Goal: YourMT3+ runs on our data, and we present the first scores on 17 Nov.
   - [X] M4Singer: https://drive.google.com/file/d/1xC37E59EWRRFFLdG3aJkVqwtLDgtFNqW/view
   - [X] Opencpop
   - [X] TONAS
-- [ ] Write the scoring script with `mir_eval` (COn, COnP, COnPOff F1) and test it on a few files
-- [ ] Write the script that counts the error types: wrong pitch, octave error, note cut in several, notes merged, onset more than 50 ms off
+- [X] Write the scoring script with `mir_eval` (COn, COnP, COnPOff F1) and test it on a few files
+- [X] Write the script that counts the error types: wrong pitch, octave error, note cut in several, notes merged, onset more than 50 ms off
 - [ ] Score Erulan's MIDI files and pick 3 typical failures as piano-roll pictures
 - [ ] Slides: the problem with the demo, the data, the baseline scores and the failures
 

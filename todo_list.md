@@ -37,7 +37,7 @@ Goal: YourMT3+ runs on our data, and we present the first scores on 17 Nov.
 
 **Everyone**
 
-- [ ] Agree on the final proposal
+- [X] Agree on the final proposal
 - [ ] Rehearse the presentation once, in our own words
 
 ## Week 2: 18 to 24 Nov. First fine-tune

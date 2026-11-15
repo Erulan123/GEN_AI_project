@@ -22,9 +22,9 @@ Goal: YourMT3+ runs on our data, and we present the first scores on 17 Nov.
 
 **Jue (training code)**
 
-- [ ] Read `train.py` and the dataset config, and write down what a new dataset needs
-- [ ] Write the instructions for Erulan's overfit test
-- [ ] Write the list of training and test files for CSD (English 1 to 40, English 41 to 50, Korean)
+- [X] Read `train.py` and the dataset config, and write down what a new dataset needs
+- [X] Write the instructions for Erulan's overfit test
+- [X] Write the list of training and test files for CSD (English 1 to 40, English 41 to 50, Korean)
 - [ ] Slides: the model, H1 and H2, the timeline
 
 **Elise (evaluation and presentation)**
